@@ -1,6 +1,6 @@
 {
   "name": "menubar",
-  "version": "5.2.3",
+  "version": "5.2.3-beta",
   "description": "high level way to create menubar desktop applications with electron",
   "main": "index.js",
   "repository": {
@@ -27,9 +27,9 @@
   "homepage": "https://github.com/maxogden/menubar",
   "dependencies": {
     "electron-positioner": "^3.0.0",
-    "extend": "^2.0.0"
+    "extend": "^3.0.0"
   },
   "devDependencies": {
-    "standard": "^5.4.1"
+    "standard": "^9.0.0"
   }
 }
